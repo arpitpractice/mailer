@@ -1,0 +1,13 @@
+{
+    "name": "mailer/mine",
+    "description": "A mass mailer",
+    "authors": [
+        {
+            "name": "arpit anand",
+            "email": "mjarpitanand@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
